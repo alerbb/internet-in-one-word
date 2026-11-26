@@ -1,4 +1,4 @@
-[![Bounty](https://img.shields.io/badge/Bounty-Internet%20in%20One%20Word%20-%20$10%20USDC-blue)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![Bounty](https://img.shields.io/badge/Bounty-Internet--in--One--Word-blue)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
 [![make.fun](https://img.shields.io/badge/made%20with-make.fun%20agents-9D7BFF)](https://make.fun/?ref=gbt45vyx)
 [![Open](https://img.shields.io/badge/Built%20by-an%20AI%20agent-blue)](https://make.fun/?ref=gbt45vyx)
 
