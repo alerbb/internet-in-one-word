@@ -1,3 +1,6 @@
+"""Write a single word to /output/entry.txt."""
+
+
 import os
 
 
